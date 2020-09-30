@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+  text-align: center;
+  font-family: bangers;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  color: #FFFFFF;
+  text-shadow: 5px 5px 20px #000000;
+}
+h2 {
+	text-align: center;
+	font-family: aguafina-script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 60px;
+	color: #FFFFFF;
+	text-shadow: 5px 5px 20px #000000;
+}
+#fondo {
+  width: 800px;
+  height: 1200px;
+  background-image: url(../images/fondolt.jpg);
+  margin-left: auto;
+  margin-right: auto;
+}
+#foto {
+  width: 300px;
+  height: 300px;
+  margin-right: auto;
+  background-image: url(../images/luism.jpg);
+  border-radius: 300px;
+  border: 5px solid #FFFFFF;
+  margin-left: 250px;
+  margin-top: 170px;
+  float: left;
+}
+#datos {
+  width: 600px;
+  height: 200px;
+  float: left;
+  margin-left: 111px;
+  margin-top: -37px;
+}
